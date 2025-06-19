@@ -1,0 +1,14 @@
+.ele{
+    border: 5px solid #A5522D;
+    border-radius: 20px;
+    width: 50%;
+    margin: 50px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: large;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+    opacity: .7;
+    height: 40%;
+}
